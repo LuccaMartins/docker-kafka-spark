@@ -1,3 +1,7 @@
+I used this repository as a baseline for developing an assignment for the discipline of Stream Mining / Open Source Technologies at ELTE University.
+
+The description below is from the original repository:
+
 # Kafka With Spark Streaming
 
 This repository contains a docker-compose.yml file which when started up creates a zookeeper backend, two kafkas, one intended to be used as a producer and one for use as a consumer, and spark available in a container for submitting streaming jobs.
